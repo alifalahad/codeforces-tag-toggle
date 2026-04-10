@@ -9,7 +9,7 @@ Show or hide the **Problem tags** section on Codeforces problem pages.
 - Click **Show Tags** to reveal tags
 - Click **Hide Tags** to hide tags again
 
-## Chrome install (very easy)
+## Chrome install
 
 1. Download or clone this folder.
 2. Open Chrome and go to `chrome://extensions`.

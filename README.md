@@ -4,10 +4,11 @@ Show or hide the **Problem tags** section on Codeforces problem pages.
 
 ## What it does
 
-- Adds a button on the right side of the **Problem tags** header
+- Adds **Show Tags** and **Rating** buttons on the right side of **Problem tags**
 - Default state: tags are hidden
-- Click **Show Tags** to reveal tags
-- Click **Hide Tags** to hide tags again
+- Click **Rating** to show only the rating chip
+- Click **Show Tags** to show all tags
+- Click **Hide Tags** to hide all tags
 
 ## Chrome install
 
